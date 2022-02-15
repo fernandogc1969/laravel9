@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/code/laravel9":{"type":null,"mount_options":["uid=1000","gid=1000","_netdev"],"guestpath":"/home/vagrant/code/laravel9","hostpath":"/home/fernandogc/code/laravel9","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/fernandogc/code/laravel9","disabled":false,"__vagrantfile":true}}}
